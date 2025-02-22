@@ -11,8 +11,8 @@
   * **[Yolov5 Github](https://github.com/ultralytics/yolov5), [Yolov5 Docs](https://docs.ultralytics.com/yolov5)**
   * **[Yolov8 Github](https://github.com/ultralytics/ultralytics), [Yolov8 Docs](https://github.com/ultralytics/ultralytics)**
 * **Yolo 이해하기 좋은 문서 2개**
-  * **[[Object Detection] Architecture - 1 or 2 stage detector 차이](https://velog.io/@qtly_u/Object-Detection-Architecture-1-or-2-stage-detector-%EC%B0%A8%EC%9D%B4)
-  * **[[AI/딥러닝] 객체 검출(Object Detection) 모델의 종류 R-CNN, YOLO, SSD](https://rubber-tree.tistory.com/119)
+  * **[[Object Detection] Architecture - 1 or 2 stage detector 차이](https://velog.io/@qtly_u/Object-Detection-Architecture-1-or-2-stage-detector-%EC%B0%A8%EC%9D%B4)**
+  * **[[AI/딥러닝] 객체 검출(Object Detection) 모델의 종류 R-CNN, YOLO, SSD](https://rubber-tree.tistory.com/119)**
 
 <br><br>
 
